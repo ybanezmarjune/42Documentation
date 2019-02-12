@@ -1,4 +1,4 @@
-<img src="https://github.com/42Race/42Documentation/blob/master/logo.png">
+<img src="https://raw.githubusercontent.com/42Race/42Documentation/master/logo.png">
 
 ## About
 List of all links for all tech-team documents.
