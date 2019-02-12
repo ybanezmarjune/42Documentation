@@ -4,11 +4,17 @@
 
 ## See [LIVE](https://42race.github.io/42Documentation/)
 
+------------
+
 ## About
 List of all links for all tech-team documents.
 
+------------
+
 ## For Postman [Workspace](https://estore-42race.postman.co/workspaces/1993d94c-cc56-4bd3-887e-206dbcba6e4e/collections)
 To join, please ask #Jesse and #Marjune
+
+------------
 
 ## How to Update
 Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch and PR.
@@ -21,6 +27,8 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 	- [Prototype](#prototype)
 - [API](#api)
 	- [Postman](#postman)
+
+------------
 
 
 ### Design
@@ -38,10 +46,17 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 - *Design pattern*
 
 
+------------
+
+
 ### API
 ##### Postman
 - [Backend42](https://documenter.getpostman.com/view/1947812/RztrHkoA) - Postman documentation for 42race API.
 - [Estore42](https://documenter.getpostman.com/view/2756274/RztitqDH) - Postman documentation for Estore API.
+
+------------
+
+
 
 ## Contributing and License
  * Distributed under the MIT license. See LICENSE for more information.
