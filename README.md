@@ -7,11 +7,8 @@ List of all links for all tech-team documents.
 ## For Postman [Workspace](https://estore-42race.postman.co/workspaces/1993d94c-cc56-4bd3-887e-206dbcba6e4e/collections)
 To join, please ask #Jesse and #Marjune
 
-## How to Use
-Awesome-iOS is an amazing list for people who need a certain feature on their app, so the best ways to use are:
-- Ask for help on our [Twitter](https://twitter.com/awesome_ios) or [Gitter Channel](https://gitter.im/vsouza/awesome-ios)
-- Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
-- Go through our *Content Menu*
+## How to Update
+Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch and PR.
 
 ### Content
 - [About](#about)
