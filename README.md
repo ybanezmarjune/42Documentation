@@ -66,6 +66,7 @@ List of all links for all tech-team documents.
 ------------
 
 ### Guides
+- [Django Framework](https://docs.google.com/document/d/1tn5rwHc44RjYitdxquy-MZbraoSjOczOMlH3GY4w9V4/edit?usp=sharing) - Tutorial on how to install django
 
 ------------
 
