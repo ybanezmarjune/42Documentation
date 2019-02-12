@@ -16,7 +16,7 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 ### Content
 - [About](#about)
 - [How to Update](#how-to-update)
-- [Figma](#figma) Web
+- [Figma](#figma)
 - [Sample 2](#sample-2)
 
 ### Figma
