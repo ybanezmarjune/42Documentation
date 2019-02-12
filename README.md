@@ -2,8 +2,6 @@
     <img src="https://raw.githubusercontent.com/42Race/42Documentation/master/logo.png">
 </p>
 
-## See [LIVE](https://42race.github.io/42Documentation/)
-
 ------------
 
 ## About
