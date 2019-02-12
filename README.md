@@ -25,7 +25,10 @@ List of all links for all tech-team documents.
 	- [Prototype](#prototype)
 - [API](#api)
 	- [Postman](#postman)
-
+- [JIRA](#jira)
+- [Localizations](#localizations)
+- [Guides](#guides)
+- [Others](#others)
 ------------
 
 
@@ -54,7 +57,21 @@ List of all links for all tech-team documents.
 
 ------------
 
+### JIRA
 
+------------
+
+### Localizations
+
+------------
+
+### Guides
+
+------------
+
+### Others
+
+------------
 
 ## Contributing and License
  * Distributed under the MIT license. See LICENSE for more information.
