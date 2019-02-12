@@ -15,11 +15,20 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 
 ### Content
 - [About](#about)
-- [How to Use](#how-to-use)
-- [Sample 1](#sample-1)
+- [How to Update](#how-to-update)
+- [Figma](#figma)
+	1. [Dashboard](https://www.figma.com/files/team/537161027468115773/42race) - List of all design
+	2. Front End
+		- [Android](https://www.figma.com/files/project/590493/Android) - Design for Android.
+		- [iOS](https://www.figma.com/files/project/606691/iOS) - Design for iOS
+		- [Web](https://www.figma.com/files/project/597459/Web) - Design for Web
+	3. Admin
+		 [Admin](https://www.figma.com/files/project/872273) - Design for Admin42
+	4. Other
+		[Rebook](https://www.figma.com/files/project/872273) - Design for Rebook Web
 - [Sample 2](#sample-2)
 
-### Sample 1
+### Figma
 - List of urls
 - List of urls
 - List of urls
