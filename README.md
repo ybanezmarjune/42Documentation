@@ -47,5 +47,4 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 - List of urls
 
 ## Contributing and License
- * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
