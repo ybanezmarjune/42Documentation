@@ -1,5 +1,5 @@
-<img src="https://github.com/vsouza/awesome-ios/blob/master/header.png">
-
+<img src="https://github.com/42Race/42Documentation/logo.png">
+<!--
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   <a href="https://gitter.im/vsouza/awesome-ios"><img alt="Join the chat at gitter" src="https://badges.gitter.im/Join%20Chat.svg" /></a>
@@ -7,7 +7,7 @@
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
-<a href="http://weekly.awesomeios.com"><img src="https://github.com/vsouza/awesome-ios/blob/master/newsletter.png"></a>
+<a href="http://weekly.awesomeios.com"><img src="https://github.com/vsouza/awesome-ios/blob/master/newsletter.png"></a> -->
 
 ## About
 A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
