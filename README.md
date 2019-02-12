@@ -17,7 +17,7 @@ To join, please ask #Jesse and #Marjune
 ------------
 
 ## How to Update
-Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch and PR.
+Clone this [repo](https://github.com/42Race/42Documentation.git), make new branch and PR.
 
 ### Content
 - [About](#about)
