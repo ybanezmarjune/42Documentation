@@ -17,21 +17,22 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 - [About](#about)
 - [How to Update](#how-to-update)
 - [Design](#figma) <!-- includes prototye, design patern, figma. etc-->
-	- [Figma](##figma)
-	- [Prototype](##prototype)
+	- [Figma](#figma)
+	- [Prototype](#prototype)
 - [API](#api)
-	- [Postman](##postman)
+	- [Postman](#postman)
 
 
 ### Design
 ##### Figma
 - [Dashboard](https://www.figma.com/files/team/537161027468115773/42race) - List of all design
-- Front-end App
+- Mobile
 	- [Android](https://www.figma.com/files/project/590493/Android) - Design for Android.
 	- [iOS](https://www.figma.com/files/project/606691/iOS) - Design for iOS
+- Web
 	- [Web](https://www.figma.com/files/project/597459/Web) - Design for Web
-- [Admin](https://www.figma.com/files/project/872273) - Design for Admin42
-- [Rebook](https://www.figma.com/files/project/872273) - Design for Rebook
+	- [Admin](https://www.figma.com/files/project/872273) - Design for Admin42
+	- [Rebook](https://www.figma.com/files/project/872273) - Design for Rebook
 
 ##### Prototype
 - *Design pattern*
