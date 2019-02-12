@@ -12,12 +12,13 @@ List of all links for all tech-team documents.
 ------------
 
 ## For Postman [Workspace](https://estore-42race.postman.co/workspaces/1993d94c-cc56-4bd3-887e-206dbcba6e4e/collections)
-To join, please ask #Jesse and #Marjune
+- To join, please ask #Jesse and #Marjune
 
 ------------
 
 ## How to Update
-Clone this [repo](https://github.com/42Race/42Documentation.git), make new branch and PR.
+- Clone this [repo](https://github.com/42Race/42Documentation.git), make new branch and PR.
+- Use [MD editor](https://pandao.github.io/editor.md/en.html) to review your work.
 
 ### Content
 - [About](#about)
