@@ -17,15 +17,14 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 - [About](#about)
 - [How to Update](#how-to-update)
 - [Design](#figma) <!-- includes prototye, design patern, figma. etc-->
-	- [Figma](#figma)
-		- [Design](#design)
-		- [Prototype](#Prototype)
+	- [Figma](##figma)
+	- [Prototype](##prototype)
 - [API](#api)
-	- Postman
+	- [Postman](##postman)
 
 
-### Figma
-#### Design
+### Design
+##### Figma
 - [Dashboard](https://www.figma.com/files/team/537161027468115773/42race) - List of all design
 - Front-end App
 	- [Android](https://www.figma.com/files/project/590493/Android) - Design for Android.
@@ -34,22 +33,14 @@ Clone this [Repo](git@github.com:42Race/42Documentation.git), make new branch an
 - [Admin](https://www.figma.com/files/project/872273) - Design for Admin42
 - [Rebook](https://www.figma.com/files/project/872273) - Design for Rebook
 
-#### Prototype
-- Design pattern
+##### Prototype
+- *Design pattern*
+
 
 ### API
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
-- List of urls
+##### Postman
+- [Backend42](https://documenter.getpostman.com/view/1947812/RztrHkoA) - Postman documentation for 42race API.
+- [Estore42](https://documenter.getpostman.com/view/2756274/RztitqDH) - Postman documentation for Estore API.
 
 ## Contributing and License
  * Distributed under the MIT license. See LICENSE for more information.
