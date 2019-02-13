@@ -59,6 +59,7 @@ List of all links for all tech-team documents.
 ------------
 
 ### JIRA
+- [42Race Dashboard](https://42race.atlassian.net/secure/Dashboard.jspa) - Jira tickets dashboard
 
 ------------
 
