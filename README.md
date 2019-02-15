@@ -27,7 +27,7 @@ List of all links for all tech-team documents.
 	- [Postman](#postman)
 - [JIRA](#jira)
 - [Localizations](#localizations)
-- [Guides](#guides)
+- [Guides and FAQ](#guides-and-faq)
 - [Others](#others)
 
 ------------
@@ -68,9 +68,10 @@ List of all links for all tech-team documents.
 
 ------------
 
-### Guides
+### Guides and FAQ
 - [Django Framework](https://docs.google.com/document/d/1tn5rwHc44RjYitdxquy-MZbraoSjOczOMlH3GY4w9V4/edit?usp=sharing) - Tutorial on how to install django
 - [Deployment API](https://docs.google.com/document/d/1tn5rwHc44RjYitdxquy-MZbraoSjOczOMlH3GY4w9V4/edit?usp=sharing) - Tutorial on how to deploy backend42
+- [FAQ estore](https://docs.google.com/spreadsheets/d/1lEvipqvqfyn1R2sPtLBSVGYmcIsRpT5QzvJs1si6SgM/edit#gid=758454368) - Estore FAQ
 
 ------------
 
